@@ -4,15 +4,15 @@
 
 The canonical source of GitLab where all development takes place is [hosted on GitLab.com](https://gitlab.com/gitlab-org/gitlab).
 
-If you wish to clone a copy of GitLab without proprietary code, you can use the read-only mirror of GitLab located at https://gitlab.com/gitlab-org/gitlab-foss/. However, please do not submit any issues and/or merge requests to that project.
+If you wish to clone a copy of GitLab without proprietary code, you can use the read-only mirror of GitLab located at [GitLab-org](https://gitlab.com/gitlab-org/gitlab-foss/). However, please do not submit any issues and/or merge requests to that project.
 
 ## Free trial
 
-You can request a free trial of GitLab Ultimate [on our website](https://about.gitlab.com/free-trial/).
+You can request a free trial of GitLab Ultimate [GitLab free-trail](https://about.gitlab.com/free-trial/).
 
 ## Open source software to collaborate on code
 
-To see how GitLab looks please see the [features page on our website](https://about.gitlab.com/features/).
+To see how GitLab looks please see the [Gitpab features page](https://about.gitlab.com/features/).
 
 - Manage Git repositories with fine grained access controls that keep your code secure
 - Perform code reviews and enhance collaboration with merge requests
@@ -26,21 +26,21 @@ To see how GitLab looks please see the [features page on our website](https://ab
 There are three editions of GitLab:
 
 - GitLab Community Edition (CE) is available freely under the MIT Expat license.
-- GitLab Enterprise Edition (EE) includes [extra features](https://about.gitlab.com/pricing/#compare-options) that are more useful for organizations with more than 100 users. To use EE and get official support please [become a subscriber](https://about.gitlab.com/pricing/).
-- JiHu Edition (JH) tailored specifically for the [Chinese market](https://about.gitlab.cn/).
+- GitLab Enterprise Edition (EE) includes [GitLab Pricing](https://about.gitlab.com/pricing/#compare-options) that are more useful for organizations with more than 100 users. To use EE and get official support please [subscriptions](https://about.gitlab.com/pricing/).
+- JiHu Edition (JH) tailored specifically for the [GitLab Chinese market](https://about.gitlab.cn/).
 
 ## Licensing
 
-See the [LICENSE](LICENSE) file for licensing information as it pertains to
+See the [LICENSE](LICENSE.md) file for licensing information as it pertains to
 files in this repository.
 
 ## Hiring
 
-We are hiring developers, support people, and production engineers all the time, please see our [jobs page](https://about.gitlab.com/jobs/).
+We are hiring developers, support people, and production engineers all the time, please see our [GitLab jobs page](https://about.gitlab.com/jobs/).
 
 ## Website
 
-On [about.gitlab.com](https://about.gitlab.com/) you can find more information about:
+On [About Gitlab](https://about.gitlab.com/) you can find more information about:
 
 - [Subscriptions](https://about.gitlab.com/pricing/)
 - [Professional Services](https://about.gitlab.com/services/)
@@ -51,7 +51,7 @@ On [about.gitlab.com](https://about.gitlab.com/) you can find more information a
 
 ## Requirements
 
-Please see the [requirements documentation](doc/install/requirements.md) for system requirements and more information about the supported operating systems.
+Please see the [requirements documentation](https://docs.gitlab.com/install/requirements.md) for system requirements and more information about the supported operating systems.
 
 ## Installation
 
@@ -59,15 +59,15 @@ The recommended way to install GitLab is with the [Omnibus packages](https://abo
 Compared to an installation from source, this is faster and less error prone.
 Just select your operating system, download the respective package (Debian or RPM) and install it using the system's package manager.
 
-There are various other options to install GitLab, please refer to the [installation page on the GitLab website](https://about.gitlab.com/installation/) for more information.
+There are various other options to install GitLab, please refer to the [GitLab Installation](https://about.gitlab.com/installation/) for more information.
 
 ## Contributing
 
-GitLab is an open source project and we are very happy to accept community contributions. Please refer to [Contributing to GitLab page](https://about.gitlab.com/contributing/) for more details.
+GitLab is an open source project and we are very happy to accept community contributions. Please refer to [Contributing](https://about.gitlab.com/contributing/) for more details.
 
 ## Install a development environment
 
-To work on GitLab itself, we recommend setting up your development environment with [the GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit).
+To work on GitLab itself, we recommend setting up your development environment with [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit).
 If you do not use the GitLab Development Kit you need to install and configure all the dependencies yourself, this is a lot of work and error prone.
 One small thing you also have to do when installing it yourself is to copy the example development Puma configuration file:
 
@@ -111,11 +111,11 @@ All documentation can be found on <https://docs.gitlab.com>.
 
 ## Getting help
 
-Please see [Getting help for GitLab](https://about.gitlab.com/getting-help/) on our website for the many options to get help.
+Please see [GitLab Help page](https://about.gitlab.com/getting-help/) on our website for the many options to get help.
 
 ## Why?
 
-[Read here](https://about.gitlab.com/why/)
+[Learn more](https://about.gitlab.com/why/)
 
 ## Is it any good?
 
@@ -123,4 +123,4 @@ Please see [Getting help for GitLab](https://about.gitlab.com/getting-help/) on 
 
 ## Is it awesome?
 
-[These people](https://twitter.com/gitlab/followers) seem to like it.
+[Follow us](https://twitter.com/gitlab/followers) seem to like it.
